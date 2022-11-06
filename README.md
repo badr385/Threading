@@ -11,6 +11,6 @@ Also i tried to understand how to lunch for each function their own threads.
 
 Test it and it s working
 
-I started python in order to save time on my work, also becomes it s more satisfying to lunch a script instead of doing the same task for 1 hour.
+I started python in order to save time on my work, also because it s more interesting to launch a script instead of doing the same task for 1 hour, you don't feel stupid at all :).
 
-See u guys.
+I will try upload more contents. I usually work on cisco devices
