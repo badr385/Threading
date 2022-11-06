@@ -5,12 +5,12 @@ I tried how to implement threads in python in order to understand how it s worki
 
 Credits : https://www.pythontutorial.net/python-concurrency/python-threading/
 
-I used their examples by i go fat by reading contents file first and replacing them by another customs contenes on each three file i use.
+I used their examples first, by after i go a little bit far.By reading contents file first and replacing it by another customs contents on each three files i used.
 
-Also i tried to understand how to lunch for each function their own threads.
+Also i run for each functions their own threads.
 
-Test it and it s working
+I test it and it s working fine
 
 I started python in order to save time on my work, also because it s more interesting to launch a script instead of doing the same task for 1 hour, you don't feel stupid at all :).
 
-I will try upload more contents. I usually work on cisco devices
+I will try upload more contents. I usually work on cisco devices.
